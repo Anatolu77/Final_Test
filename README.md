@@ -23,6 +23,7 @@
 
 ## **Решение**
 1. Блок схема
+![Block_diagram drawio](https://github.com/Anatolu77/Final_Test/assets/138383640/86bbe4ce-2a94-44de-8323-133aaf2dd398)
 
 Код программы:
 ```cs
