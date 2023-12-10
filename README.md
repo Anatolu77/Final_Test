@@ -23,6 +23,7 @@
 
 ## **Решение**
 1. Блок схема
+   
 ![Block_diagram drawio](https://github.com/Anatolu77/Final_Test/blob/master/Block_diagram.drawio.png)
 
 Код программы:
@@ -98,3 +99,4 @@ void PrintArray(string[] array)
     }
     Console.Write("] ");
 }
+```
